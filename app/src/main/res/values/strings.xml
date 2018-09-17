@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Reclamos</string>
+    <string name="title_activity_maps">Mapa de Reclamos</string>
+    <string name="titulo_reclamo">Describa el reclamo</string>
+    <string name="texto_mail">Correo electronico del contacto</string>
+    <string name="button_foto">Subir foto</string>
+    <string name="cancelar">CANCELAR</string>
+    <string name="hacer_reclamo">HACER RECLAMO</string>
+    <string name="imagen_camara">Imagen Camara</string>
+    <string name="ver_lista_de_reclamos">Lista de Reclamos</string>
+    <string name="desc">descripcion_reclamo</string>
+    <string name="email">Email</string>
+    <string name="descripcion">Descripcion</string>
+    <string name="Resuelto">Resuelto</string>
+    <string name="volver">Volver</string>
+</resources>
